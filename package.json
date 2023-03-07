@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlehKosminin.github.io/project16-ice-cream",
+  "homepage": "https://olehxoleksuk.github.io/ice-crem/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project16-ice-cream/"
+    "build": "parcel build src/*.html --public-url /ice-crem/"
   },
   "repository": {
     "type": "git",
